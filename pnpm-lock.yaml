@@ -13,8 +13,8 @@ catalogs:
       specifier: 2.0.0
       version: 2.0.0
     '@modelcontextprotocol/sdk':
-      specifier: 1.30.0
-      version: 1.30.0
+      specifier: 1.31.0
+      version: 1.31.0
     '@modelcontextprotocol/server':
       specifier: 2.0.0
       version: 2.0.0
@@ -483,7 +483,7 @@ importers:
         version: link:../../packages/mcp-observability
       agents:
         specifier: 'catalog:'
-        version: 0.20.1(@babel/core@7.29.7)(@cloudflare/workers-types@4.20250416.0)(@modelcontextprotocol/client@2.0.0)(@modelcontextprotocol/sdk@1.30.0(@cfworker/json-schema@4.1.1)(zod@4.4.3))(@modelcontextprotocol/server@2.0.0)(ai@6.0.194(zod@4.4.3))(react@17.0.2)(rolldown@1.0.3)(vite@6.3.4(@types/node@22.15.17)(lightningcss@1.29.2)(tsx@4.19.3)(yaml@2.9.0))(zod@4.4.3)
+        version: 0.20.1(@babel/core@7.29.7)(@cloudflare/workers-types@4.20250416.0)(@modelcontextprotocol/client@2.0.0)(@modelcontextprotocol/sdk@1.31.0(@cfworker/json-schema@4.1.1)(zod@4.4.3))(@modelcontextprotocol/server@2.0.0)(ai@6.0.194(zod@4.4.3))(react@17.0.2)(rolldown@1.0.3)(vite@6.3.4(@types/node@22.15.17)(lightningcss@1.29.2)(tsx@4.19.3)(yaml@2.9.0))(zod@4.4.3)
       cron-schedule:
         specifier: 5.0.4
         version: 5.0.4
@@ -575,7 +575,7 @@ importers:
         version: link:../../packages/mcp-common
       agents:
         specifier: 'catalog:'
-        version: 0.20.1(@babel/core@7.29.7)(@cloudflare/workers-types@4.20250416.0)(@modelcontextprotocol/client@2.0.0)(@modelcontextprotocol/sdk@1.30.0(@cfworker/json-schema@4.1.1)(zod@4.4.3))(@modelcontextprotocol/server@2.0.0)(ai@6.0.194(zod@4.4.3))(react@17.0.2)(rolldown@1.0.3)(vite@6.3.4(@types/node@22.15.17)(lightningcss@1.29.2)(tsx@4.19.3)(yaml@2.9.0))(zod@4.4.3)
+        version: 0.20.1(@babel/core@7.29.7)(@cloudflare/workers-types@4.20250416.0)(@modelcontextprotocol/client@2.0.0)(@modelcontextprotocol/sdk@1.31.0(@cfworker/json-schema@4.1.1)(zod@4.4.3))(@modelcontextprotocol/server@2.0.0)(ai@6.0.194(zod@4.4.3))(react@17.0.2)(rolldown@1.0.3)(vite@6.3.4(@types/node@22.15.17)(lightningcss@1.29.2)(tsx@4.19.3)(yaml@2.9.0))(zod@4.4.3)
       ai:
         specifier: 6.0.194
         version: 6.0.194(zod@4.4.3)
@@ -734,10 +734,10 @@ importers:
         version: 2.0.0
       '@modelcontextprotocol/sdk':
         specifier: 'catalog:'
-        version: 1.30.0(@cfworker/json-schema@4.1.1)(zod@4.4.3)
+        version: 1.31.0(@cfworker/json-schema@4.1.1)(zod@4.4.3)
       agents:
         specifier: 'catalog:'
-        version: 0.20.1(@babel/core@7.29.7)(@cloudflare/workers-types@4.20250416.0)(@modelcontextprotocol/client@2.0.0)(@modelcontextprotocol/sdk@1.30.0(@cfworker/json-schema@4.1.1)(zod@4.4.3))(@modelcontextprotocol/server@2.0.0)(ai@6.0.194(zod@4.4.3))(react@17.0.2)(rolldown@1.0.3)(vite@6.3.4(@types/node@22.15.17)(lightningcss@1.29.2)(tsx@4.19.3)(yaml@2.9.0))(zod@4.4.3)
+        version: 0.20.1(@babel/core@7.29.7)(@cloudflare/workers-types@4.20250416.0)(@modelcontextprotocol/client@2.0.0)(@modelcontextprotocol/sdk@1.31.0(@cfworker/json-schema@4.1.1)(zod@4.4.3))(@modelcontextprotocol/server@2.0.0)(ai@6.0.194(zod@4.4.3))(react@17.0.2)(rolldown@1.0.3)(vite@6.3.4(@types/node@22.15.17)(lightningcss@1.29.2)(tsx@4.19.3)(yaml@2.9.0))(zod@4.4.3)
       ai:
         specifier: 6.0.194
         version: 6.0.194(zod@4.4.3)
@@ -780,7 +780,7 @@ importers:
         version: link:../mcp-observability
       agents:
         specifier: 'catalog:'
-        version: 0.20.1(@babel/core@7.29.7)(@cloudflare/workers-types@4.20250416.0)(@modelcontextprotocol/client@2.0.0)(@modelcontextprotocol/sdk@1.30.0(@cfworker/json-schema@4.1.1)(zod@4.4.3))(@modelcontextprotocol/server@2.0.0)(ai@6.0.194(zod@4.4.3))(react@17.0.2)(rolldown@1.0.3)(vite@6.3.4(@types/node@22.15.17)(lightningcss@1.29.2)(tsx@4.19.3)(yaml@2.9.0))(zod@4.4.3)
+        version: 0.20.1(@babel/core@7.29.7)(@cloudflare/workers-types@4.20250416.0)(@modelcontextprotocol/client@2.0.0)(@modelcontextprotocol/sdk@1.31.0(@cfworker/json-schema@4.1.1)(zod@4.4.3))(@modelcontextprotocol/server@2.0.0)(ai@6.0.194(zod@4.4.3))(react@17.0.2)(rolldown@1.0.3)(vite@6.3.4(@types/node@22.15.17)(lightningcss@1.29.2)(tsx@4.19.3)(yaml@2.9.0))(zod@4.4.3)
       cloudflare:
         specifier: 4.2.0
         version: 4.2.0
@@ -1295,6 +1295,7 @@ packages:
 
   '@cloudflare/vitest-pool-workers@0.16.11':
     resolution: {integrity: sha512-2uDyHjJZYSVHJrnv0l/WcnWNmn6ScyixQVBIqvoLhgxsq2ZITHh42FCLeKe6B/YMj36g3MEE3+WRzZqhWQjz4w==}
+    deprecated: '@cloudflare/vitest-pool-workers has been renamed to @cloudflare/vitest-plugin. This package will not receive future updates.'
     peerDependencies:
       '@vitest/runner': ^4.1.0
       '@vitest/snapshot': ^4.1.0
@@ -1864,8 +1865,8 @@ packages:
     resolution: {integrity: sha512-pJCEwGG7Lfr/+PQp9ZTwKXNeO5wzbfKL7H3MYpCorM4oFBoQrdjnBgEoqG+RjhsvS1FKrDbKux+M1HhlnGWqcA==}
     engines: {node: '>=20'}
 
-  '@modelcontextprotocol/sdk@1.30.0':
-    resolution: {integrity: sha512-xKd8OIzlqNzcqcNumGAa6g+PW2kjD5vrpcKOnfldAUPP3j7lnqMPwlTXQm8gF+UwH72z0lqaRbjr9hqGz0eITA==}
+  '@modelcontextprotocol/sdk@1.31.0':
+    resolution: {integrity: sha512-UvTMgnNlnIBO/22ob2RcVGDlcvOslQs8T59+FTGdA0L27a39fdGF/EDETNtDVK4DZGpwomlsYpRdA8UXcVL/pw==}
     engines: {node: '>=18'}
     peerDependencies:
       '@cfworker/json-schema': ^4.1.1
@@ -6186,7 +6187,7 @@ snapshots:
     dependencies:
       zod: 4.4.3
 
-  '@modelcontextprotocol/sdk@1.30.0(@cfworker/json-schema@4.1.1)(zod@4.4.3)':
+  '@modelcontextprotocol/sdk@1.31.0(@cfworker/json-schema@4.1.1)(zod@4.4.3)':
     dependencies:
       '@hono/node-server': 1.19.14(hono@4.12.23)
       ajv: 8.20.0
@@ -6719,12 +6720,12 @@ snapshots:
     dependencies:
       humanize-ms: 1.2.1
 
-  agents@0.20.1(@babel/core@7.29.7)(@cloudflare/workers-types@4.20250416.0)(@modelcontextprotocol/client@2.0.0)(@modelcontextprotocol/sdk@1.30.0(@cfworker/json-schema@4.1.1)(zod@4.4.3))(@modelcontextprotocol/server@2.0.0)(ai@6.0.194(zod@4.4.3))(react@17.0.2)(rolldown@1.0.3)(vite@6.3.4(@types/node@22.15.17)(lightningcss@1.29.2)(tsx@4.19.3)(yaml@2.9.0))(zod@4.4.3):
+  agents@0.20.1(@babel/core@7.29.7)(@cloudflare/workers-types@4.20250416.0)(@modelcontextprotocol/client@2.0.0)(@modelcontextprotocol/sdk@1.31.0(@cfworker/json-schema@4.1.1)(zod@4.4.3))(@modelcontextprotocol/server@2.0.0)(ai@6.0.194(zod@4.4.3))(react@17.0.2)(rolldown@1.0.3)(vite@6.3.4(@types/node@22.15.17)(lightningcss@1.29.2)(tsx@4.19.3)(yaml@2.9.0))(zod@4.4.3):
     dependencies:
       '@babel/plugin-proposal-decorators': 8.0.2(@babel/core@7.29.7)
       '@cfworker/json-schema': 4.1.1
       '@modelcontextprotocol/client': 2.0.0
-      '@modelcontextprotocol/sdk': 1.30.0(@cfworker/json-schema@4.1.1)(zod@4.4.3)
+      '@modelcontextprotocol/sdk': 1.31.0(@cfworker/json-schema@4.1.1)(zod@4.4.3)
       '@modelcontextprotocol/server': 2.0.0
       '@rolldown/plugin-babel': 0.2.3(@babel/core@7.29.7)(rolldown@1.0.3)(vite@6.3.4(@types/node@22.15.17)(lightningcss@1.29.2)(tsx@4.19.3)(yaml@2.9.0))
       cron-schedule: 6.0.0
